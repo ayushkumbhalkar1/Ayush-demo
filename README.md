@@ -1,5 +1,5 @@
-# Ayush-demo
+# my first project
 
-my first git repository
+this project based on html css and js
 <br>
 Author - Ayush Kumbhalkar
